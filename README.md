@@ -1,6 +1,6 @@
 # [ex0525.csv Analysis Summary (click for full report)](ex0525_ANALYSIS.pdf)
-- This is data from the Chapter 5 Problem 25 of "The Statistical Sleuth".
-- It contains 12,000+ rows, each depicting a person with two features, where one feature consists of 5 categories of education levels, and the other feature consists of their income which has a right-skewed distribution.
+- This data subset is the distributions of annual incomes for Americans in five education categories (less than 12 years, 12 years, 13-15 years, 16 years, and more than 16 years) in 2005.
+- It contains 12,000+ rows, each depicting a person with two features, where one feature consists of the five education categories, and the other consists of their income.
 - Appropriate assumptions are established in preparation for ANOVA testing by visualizing before and after logarithmic transformation.
 - The addressed problem statements are as follows:
   - Test if at least one of the five distributions of educated people different from the other distributions.
