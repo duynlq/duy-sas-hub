@@ -1,3 +1,4 @@
+![ex0525_banner](images/ex0525_BANNER.jpg)
 # [ex0525.csv Analysis Summary (click for full report)](ex0525_ANALYSIS.pdf)
 - As a data scientist, Duy is requested to query a subset of the incomes of Americans.
 - This subset consists of Americans and their distributions of annual incomes in five different education categories (less than 12 years, 12 years, 13-15 years, 16 years, and more than 16 years) with a certain classified condition in 2005.
