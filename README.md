@@ -13,3 +13,5 @@
 
 ![IceMelt_banner](images/IceMelt_BANNER.jpg)
 # [IceMelt.csv Analysis Summary (click for full report)](ex0525_ANALYSIS.pdf)
+- In preparation for the next Texas deadly winter storm like the one in [February 2022](https://en.wikipedia.org/wiki/February_2022_North_American_winter_storm), an undisclosed major airline allocated extra resources for Duy to test the effectiveness of chemicals used for airplane de-icing.
+- They made an experiment using Calcium, Magnesium, Potassium, and Sodium, and recorded the number of seconds it took to completely de-ice a single airplane wing. Since this experiment was done on a random sample of airplanes which are all in the same environment and conditions, it is safe to say that the de-icing analysis results can be generalized to the overall population of airplanes. 
