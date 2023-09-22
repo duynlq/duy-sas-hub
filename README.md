@@ -7,3 +7,5 @@
   - Test if at least one of the five distributions of educated people is different from the other distributions.
   - Test if people with 16 years of education have different distributions of income than people with more than 16 years of education.
   - Test if at least one of the five distributions of educated people is different from the other distributions, but assumes that there is no equal standard deviation for the logged data using Welch's ANOVA test.
+  - Determine which pairs of education category means differ and by how much money or percentage using the Tukey-Kramer test.
+  - 
