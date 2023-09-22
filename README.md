@@ -10,3 +10,6 @@
   - **_Problem Statement 3_** Test if at least one of the five distributions of educated people is different from the other distributions, but assumes that there is no equal standard deviation for the logged data. Using Welch's ANOVA Test is most appropriate for this task, since it does not assume equal variance.
   - **_Problem Statement 4_** Determine which pairs of education category distributions differ and by how much money or percentage using the Tukey-Kramer test.
   - **_Problem Statement 5_** Test if there is a difference in income distributions between people with high school education (12 years) versus the other education categories using Dunnett's Test.
+
+![IceMelt_banner](images/IceMelt_BANNER.jpgg)
+# [IceMelt.csv Analysis Summary (click for full report)](ex0525_ANALYSIS.pdf)
